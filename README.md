@@ -8,14 +8,13 @@ This repository contains a person re-identification (ReID) model that utilizes f
 
 - Fusion of spatial and channel dimensions for enhanced attention in ReID.
 - Utilizes the DukeMTMC, Market-1501-v15.09.15, and MSMT17_V2 datasets for evaluation.
-- State-of-the-art attention mechanism for improved person re-identification.
 
 ## Datasets
 
 The model is evaluated on the following datasets:
 - [DukeMTMC](https://drive.google.com/file/d/1jjE85dRCMOgRtvJ5RQV9-Afs-2_5dY3O/view)
-- [Market-1501-v15.09.15](https://www.kaggle.com/pengcw1/market1501)
-- [MSMT17_V2](https://www.msmt17.net/)
+- [Market-1501-v15.09.15](https://www.kaggle.com/datasets/pengcw1/market-1501)
+- [MSMT17_V2](https://paperswithcode.com/dataset/msmt17)
 
 ## Results
 
