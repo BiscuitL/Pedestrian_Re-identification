@@ -13,7 +13,7 @@ This repository contains a person re-identification (ReID) model that utilizes f
 ## Datasets
 
 The model is evaluated on the following datasets:
-- [DukeMTMC](http://vision.cs.duke.edu/DukeMTMC/)
+- [DukeMTMC](https://drive.google.com/file/d/1jjE85dRCMOgRtvJ5RQV9-Afs-2_5dY3O/view)
 - [Market-1501-v15.09.15](https://www.kaggle.com/pengcw1/market1501)
 - [MSMT17_V2](https://www.msmt17.net/)
 
