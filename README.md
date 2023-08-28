@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains a person re-identification (ReID) model that utilizes fusion techniques in both spatial and channel dimensions to enhance the attention mechanism. The goal of this project is to improve the performance of person re-identification by effectively combining spatial and channel information.
+This repository contains a pedestrian re-identification (ReID) model that utilizes fusion techniques in both spatial and channel dimensions to enhance the attention mechanism. The goal of this project is to improve the performance of person re-identification by effectively combining spatial and channel information.
 
 ## Features
 
@@ -18,7 +18,7 @@ The model is evaluated on the following datasets:
 
 ## Results
 
-Our fusion-based attention model achieves competitive results on the DukeMTMC, Market-1501-v15.09.15, and MSMT17_V2 datasets. The fusion of spatial and channel dimensions enhances the attention mechanism, leading to improved person re-identification accuracy.
+Our fusion-based attention model achieves competitive results on the DukeMTMC, Market-1501-v15.09.15, and MSMT17_V2 datasets. The fusion of spatial and channel dimensions enhances the attention mechanism, leading to improved pedestrian re-identification accuracy.
 
 ### Performance Comparison on Market Dataset
 
