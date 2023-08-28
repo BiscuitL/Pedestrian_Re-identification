@@ -50,4 +50,6 @@ Our fusion-based attention model achieves competitive results on the DukeMTMC, M
 | PCB       | 68.2   | 40.4 |
 | Ours      | 73.8   | 48.7 |
 
-In summary, across all three datasets, this project's model demonstrates competitive performance in the Rank-1 metric, which measures local recognition accuracy. While it might not hold the top spot, the slight difference from the best-performing model indicates a strong ability to match recognizable pedestrian images effectively. Notably, the model excels in the mAP metric, showcasing superior average accuracy across all images, particularly on larger datasets. Given the significance of the global mAP metric in extensive datasets, this underscores the project's meaningful contribution to enhancing recognition accuracy in pedestrian re-identification tasks.
+In summary, across all three datasets, this project's model demonstrates competitive performance in the Rank-1 metric, which measures local recognition accuracy. While it might not hold the top spot, the slight difference from the best-performing model indicates a strong ability to match recognizable pedestrian images effectively. Notably, the model excels in the mAP metric, showcasing superior average accuracy across all images, particularly on larger datasets. 
+
+Given the significance of the global mAP metric in extensive datasets, this underscores the project's meaningful contribution to enhancing recognition accuracy in pedestrian re-identification tasks.
